@@ -1,0 +1,90 @@
+.main-header {
+	 background-color: #2e671e !important;
+}
+ .nav > li > a {
+	 color: #fff !important;
+}
+ .nav > li > a:hover, .nav > li > a:focus {
+	 background-color: #2e671e !important;
+	 color: #fff !important;
+}
+ .top-nav .nav > li > a:before {
+	 background: #fff !important;
+}
+ .couesemenu .topnav a.active {
+	 border-bottom: 5px solid #2e671e !important;
+	 color: #4d575e;
+}
+ .program-card .program-detail__category {
+	 color: #f5a623 !important;
+}
+ .program-card .program-detail__course {
+	 color: #2e671e !important;
+}
+ .eachCourseName {
+	 color: #f5a623 !important;
+}
+ .masterProgram-card .course-title, .elective-card .course-title, .learningPath-Card .course-title {
+	 color: #2e671e !important;
+}
+ .course-progress .percentage-box {
+	 background: #2e671e !important;
+}
+ .program-progress-box .progress .course-percentage-box:before {
+	 box-shadow: 0 0 0 2px #2e671e !important;
+}
+ .btn-primary, .btn-default, .btn-info, .btn-download, .btn-skip, .btn-disable {
+	 color: #fff;
+	 background-color: #2e671e !important;
+	 border-color: #2e671e !important;
+	 box-shadow: 0 1px #2e671e !important;
+}
+ .learning-env-header {
+	 background-color: #2e671e !important;
+}
+ .learning-env-header .learning-env-header__back-btn {
+	 background: #2e671e !important;
+}
+ .left-nav__nav ul {
+	 background-color: #2e671e !important;
+}
+ .learning-env-header__info .info__ename {
+	 color: #fff !important;
+}
+ .learning-env-header__info .info__progress span {
+	 color: #f5a623 !important;
+}
+ .left-nav__nav ul li a.active {
+	 color: #000 !important;
+	 text-decoration: none;
+}
+ .left-nav__nav ul li a {
+	 color: #fff !important;
+}
+ .syllabus-container .section-three-tier .lesson-section ul .lesson .lesson-accordion .lesson-name {
+	 color: #2e671e !important;
+}
+ .syllabus-container .section-three-tier .lesson-section ul .lesson .topic-section ul li.active {
+	 background-color: #2e671e !important;
+}
+ .help_and_support > .help {
+	 color: #fff !important;
+}
+ .tools_help_and_support {
+	 float: right;
+}
+ .tools_help_and_support .help_and_support {
+	 padding: 0px !important;
+}
+ .tools_help_and_support:hover, .tools_help_and_support:focus {
+	 color: #fff !important;
+	 background-color: #2e671e !important;
+}
+ a tools__help-support:hover a, tools__help-support:focus a {
+	 color: #fff !important;
+	 background-color: #2e671e !important;
+}
+ .icon-set-before .tools__notes {
+	 color: #fff !important;
+}
+ 
