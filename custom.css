@@ -79,7 +79,7 @@
  .syllabus-container .section-three-tier .lesson-section ul .lesson .custom-topic-section-theme ul li.active {
 	 background-color: #2e671e;
 }
- .syllabus-container .section-three-tier .lesson-section ul .lesson .custom-topic-section-theme ul li.active:hover {
+ .syllabus-container .section-three-tier .lesson-section ul .lesson .topic-section ul li.active :hover {
 	 background-color: #2e671e;
 }
  .syllabus-container .section-three-tier .lesson-section.collapse.in ul li.lesson-active {
