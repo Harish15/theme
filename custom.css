@@ -1,3 +1,97 @@
-.learning-env-header-theme {
-    background-color: #2e671e;
-  }
+.custom-main-header-theme {
+	 background-color: #2e671e;
+}
+ .nav > li > a {
+	 color: #fff;
+}
+ .nav > li > a:hover, .nav > li > a:focus {
+	 background-color: #2e671e;
+	 color: #fff;
+}
+ .top-nav .nav > li > a:before {
+	 background: #fff !important;
+}
+ .custom-help-theme {
+	 color: #fff;
+}
+ .couesemenu .topnav a.active {
+	 border-bottom: 5px solid #2e671e;
+	 color: #4d575e;
+}
+ .custom-program-card-theme .custom-program-detail__category-theme {
+	 color: #f5a623;
+}
+ .custom-program-card-theme .custom-program-detail__course-theme {
+	 color: #2e671e;
+}
+ .custom-eachCourseName-theme {
+	 color: #f5a623;
+}
+ .masterProgram-card .course-title, .elective-card .course-title, .learningPath-Card .course-title .custom-course-title-theme {
+	 color: #2e671e;
+}
+ .custom-course-progress-theme .custom-percentage-box-theme {
+	 background: #2e671e;
+}
+ .custom-program-progress-box-theme .custom-progress-theme .custom-course-percentage-box-theme {
+	 background: #2e671e;
+}
+ .custom-program-progress-box-theme .custom-progress-theme .custom-course-percentage-box-theme:before {
+	 box-shadow: 0 0 0 2px #2e671e;
+}
+ .course-progress .custom-percentage-box-theme {
+	 background: #2e671e;
+}
+ .course-progress .custom-progress-bar-theme {
+	 background-color: #2e671e;
+}
+ .btn-primary, .btn-default, .btn-info, .btn-download, .btn-skip, .btn-disable {
+	 color: #fff;
+	 background-color: #2e671e;
+	 border-color: #2e671e;
+	 box-shadow: 0 1px #2e671e;
+}
+ .custom-learning-env-header-theme {
+	 background-color: #2e671e;
+}
+ .custom-learning-env-header-theme .custom-learning-env-header__back-btn-theme {
+	 background: #2e671e;
+}
+ .custom-left-nav__nav-theme ul {
+	 background-color: #2e671e;
+}
+ .custom-learning-env-header__info-theme .custom-info__ename-theme {
+	 color: #fff;
+}
+ .custom-learning-env-header__info-theme .custom-info__progress-theme span {
+	 color: #f5a623;
+}
+ .left-nav__nav ul li a.active {
+	 color: #000;
+	 text-decoration: none;
+}
+ .left-nav__nav ul li a {
+	 color: #fff;
+}
+ .syllabus-container .section-three-tier .lesson-section ul .lesson .lesson-accordion .custom-lesson-name-theme {
+	 color: #2e671e;
+}
+ .syllabus-container .section-three-tier .lesson-section ul .lesson .custom-topic-section-theme ul li.active {
+	 background-color: #2e671e;
+}
+ .syllabus-container .section-three-tier .lesson-section.collapse.in ul li.lesson-active {
+	 border: 1px solid #2e671e;
+}
+ .help_and_support > .help {
+	 color: #fff;
+}
+ .tools a {
+	 color: #fff;
+}
+ .tools a:hover {
+	 color: #bfcace;
+}
+ .learning-env-header .learning-env-header__back-btn button {
+	 color: #fff;
+}
+ 
