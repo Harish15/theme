@@ -30,6 +30,9 @@
  .masterProgram-card .course-title, .elective-card .course-title, .learningPath-Card .course-title .custom-course-title-theme {
 	 color: #2e671e;
 }
+ #courseCard-Section .courseCard-All .CourseCard .course-content .custom-course-title-theme {
+	 color: #2e671e;
+}
  .custom-course-progress-theme .custom-percentage-box-theme {
 	 background: #2e671e;
 }
@@ -45,11 +48,23 @@
  .course-progress .custom-progress-bar-theme {
 	 background-color: #2e671e;
 }
+ .program-progress-box .progress .custom-course-progress-bar-theme {
+	 background-color: #2e671e;
+}
  .btn-primary, .btn-default, .btn-info, .btn-download, .btn-skip, .btn-disable {
 	 color: #fff;
 	 background-color: #2e671e;
 	 border-color: #2e671e;
 	 box-shadow: 0 1px #2e671e;
+}
+ .btn-primary:hover, .btn-default:hover, .btn-primary:focus, .btn-default:focus, .btn-default.disabled:hover {
+	 background-color: #2e671e;
+	 border-color: #2e671e;
+	 color: #fff;
+}
+ .certification .certificate-section .left-panel .seprator .cert-data .btn {
+	 border: 1px solid #2e671e;
+	 color: #2e671e;
 }
  .custom-learning-env-header-theme {
 	 background-color: #2e671e;
@@ -79,10 +94,20 @@
  .syllabus-container .section-three-tier .lesson-section ul .lesson .custom-topic-section-theme ul li.active {
 	 background-color: #2e671e;
 }
- .syllabus-container .section-three-tier .lesson-section ul .lesson .topic-section ul li.active :hover {
+ .syllabus-container .section-three-tier .lesson-section ul .lesson .custom-topic-section-theme ul li.active :hover {
 	 background-color: #2e671e;
 }
  .syllabus-container .section-three-tier .lesson-section.collapse.in ul li.lesson-active {
+	 border: 1px solid #2e671e;
+}
+ .syllabus-container .section-two-tier .lesson-section ul li.active {
+	 background-color: #2e671e;
+	 color: #2e671e;
+}
+ .syllabus-container .section-two-tier .lesson-section ul li.active :hover {
+	 background-color: #2e671e;
+}
+ .syllabus-container .section-two-tier.lesson-active {
 	 border: 1px solid #2e671e;
 }
  .help_and_support > .help {
