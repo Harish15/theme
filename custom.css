@@ -66,6 +66,12 @@
 	 border: 1px solid #2e671e;
 	 color: #2e671e;
 }
+ .bottom-button .custom-btn-default-theme, .bottom-button .custom-btn-default-theme:active, .bottom-button .custom-btn-default-theme:focus {
+	 box-shadow: 0px 1px #2e671e;
+	 background-color: #2e671e;
+	 border-color: #2e671e;
+	 color: #fff;
+}
  .custom-learning-env-header-theme {
 	 background-color: #2e671e;
 }
@@ -109,6 +115,9 @@
 }
  .syllabus-container .section-two-tier.lesson-active {
 	 border: 1px solid #2e671e;
+}
+ .syllabus-container .progress .progress-bar {
+	 background-color: #2e671e;
 }
  .help_and_support > .help {
 	 color: #fff;
